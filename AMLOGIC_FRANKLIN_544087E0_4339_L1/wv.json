@@ -1,0 +1,9 @@
+{
+  "name": "nexus7_lvl1",
+  "description": "nexus7_lvl1 (4339)",
+  "security_level": 3,
+  "session_id_type": "android",
+  "private_key_available": true,
+  "vmp": true,
+  "send_key_control_nonce": true
+}
